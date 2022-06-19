@@ -10,6 +10,7 @@
 #include<algorithm>
 #include<bitset>
 #include<cmath>
+#include<stack>
 using namespace std;
 
 typedef long long ll;
